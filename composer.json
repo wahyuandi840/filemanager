@@ -1,0 +1,21 @@
+{
+    "name": "wahyuandi840/filemanager",
+    "description": "Library Sederhana Untuk Membaca Dan Menulis File Dengan PHP",
+    "keywords": [
+        "filemanager", "Manager File","Memanipulasi File","code php membuat file baru"
+    ],
+    "license": "MIT",
+    "authors": [  
+        {
+            "name": "Wahyu Andi Rejeki",
+            "email": "wahyuandi840@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MyRajaOngkir\\": "src"
+        }
+    }
+}
